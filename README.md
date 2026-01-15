@@ -2,7 +2,7 @@
 
 ## Úvod
 
-Našou úlohou v tejto semestrálnej práci bolo vytvoriť hru, ktorá beží na serveri a ku ktorej sa môžu pripojiť viacerí klienti. Hra mala správne fungovať s využitím **socketov** a **vlákien**.
+Našou úlohou bolo vytvoriť hru, ktorá beží na serveri a ku ktorej sa môžu pripojiť viacerí klienti. Hra mala správne fungovať s využitím **socketov** a **vlákien**.
 
 Ako konkrétnu hru sme si zvolili **Človeče, nehnevaj sa**.  
 V prvej časti dokumentácie je popísaná štruktúra projektu, použitie socketov a vlákien a riešený synchronizačný problém.  
